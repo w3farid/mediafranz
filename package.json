@@ -1,0 +1,13 @@
+{
+  "id": "asana",
+  "name": "asana",
+  "version": "1.0.1",
+  "description": "asana",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.asana.com",
+    "hasNotificationSound": true
+  }
+}
